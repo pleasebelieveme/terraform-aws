@@ -32,15 +32,6 @@ Default output format []:
 한줄씩 입력하여 적용한다.
 
 
-
-결과예시
----
-```
-AWS Access Key ID []: AKIASGWSDGBSG***L4WLYZ
-AWS Secret Access Key []: Z4ijhHNVLdbvis**RVls0a5Oasl+XbKuD95LsKf
-Default region name []: ap-northeast-2 // 서울지역
-Default output format []: json // json형식의 파일
-```
 ## 실습적용
 ```
 terraform init
