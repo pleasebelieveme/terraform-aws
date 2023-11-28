@@ -43,6 +43,10 @@ Default output format []: json // json형식의 파일
 ```
 ## 실습적용
 ```
+terraform init
+```
+└─ 위의 명령어를 치면 Terraform 설정을 초기화하고 적용한다.
+```
 terraform apply
 ```
 └─ 위의 명령어를 치면 AWS EC2를 생성한다.
