@@ -1,5 +1,5 @@
 # Terraform + AWS EC2 Automation
-terrform을 이용해 AWS EC2를 생성하는 방법을 구현해보았다.
+Terrform을 이용해 AWS EC2를 생성하는 방법을 구현해보았다.
                          
    
 ## 시스템 환경
