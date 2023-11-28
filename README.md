@@ -7,7 +7,12 @@ terrform을 이용해 AWS EC2를 생성하는 방법을 구현해보았다.
 
 - wsl2 - ubuntu 22.04
 - Terraform v1.6.4
-
+## 파일구성
+```
+Terraform-aws  
+├─ aws.tf
+└─ README.md
+```
 ## 준비물
 
 ### AWS IAM key    
